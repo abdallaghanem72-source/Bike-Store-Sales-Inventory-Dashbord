@@ -47,7 +47,7 @@ Business Questions Answered
 
 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Dashboard](Bike_Store_Dashboard.png)
 
 Author
 
