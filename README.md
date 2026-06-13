@@ -33,7 +33,7 @@ Dashboard Features
 - Top 10 Products by Quantity Sold
 - Sales by Category
 - Sales by Store
-- Top Sales Representatives
+- Top Sale Staff by Revenue
 - Inventory Analysis
 
 Business Questions Answered
